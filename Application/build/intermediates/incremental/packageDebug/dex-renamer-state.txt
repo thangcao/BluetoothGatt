@@ -1,0 +1,7 @@
+#Sat Dec 24 11:58:26 ICT 2016
+base.0=/Users/chthang/Downloads/BluetoothLeGatt1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8580712ce5ce0e13a7e61e017a8842afefb08e16
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/chthang/Downloads/BluetoothLeGatt1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_63bbbe6a9d5888b211004b7a86af47abda61c61a/classes.dex
+base.1=/Users/chthang/Downloads/BluetoothLeGatt1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_63bbbe6a9d5888b211004b7a86af47abda61c61a
+file.0=/Users/chthang/Downloads/BluetoothLeGatt1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8580712ce5ce0e13a7e61e017a8842afefb08e16/classes.dex
